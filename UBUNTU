@@ -1,0 +1,17 @@
+Rekomendasi disk partition untuk install linux distro ubuntu :
+------------------------------------------------------------------------
+
+        1. Swap (ram backup)
+            4 GB / 8 GB LOGICAL
+        
+        2. Boot (system recovery)
+            2 GB / 4 GB LOGICAL
+        
+        3. Root (disk partition install system)
+            80 GB EXT / PRIMARY
+        
+        4. Home (disk partition system storage)
+        
+            ext (residual) LOGICAL
+            
+--------------------------------------------------------------------------
