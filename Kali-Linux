@@ -1,0 +1,21 @@
+Disk partition recomend :
+
+==================================================================================
+
+      1. SWAP (ram backup)
+          8 GB recomend
+          
+      2. ROOT (system)
+          80 GB ext
+          
+      3. BOOT (recovery system)
+          4 GB recomend
+          
+      4. UEFI (bootloader system bios) GPT
+          3 GB recomend
+          
+      5. HOME (personal storage)
+          ext residual
+          
+          
+========================================================================================
